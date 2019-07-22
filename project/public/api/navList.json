@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "image": "//upload.jianshu.io/admin_banners/web_images/4674/674a8ac2283f0ff81f3fb4e37fce606cc474f129.png?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540",
+      "title": "图片1"
+    },
+    {
+      "id": 2,
+      "image": "//upload.jianshu.io/admin_banners/web_images/4660/224da83c76e01d5deff07e163615921233af5c82.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540",
+      "title": "图片2"
+    }
+  ]
+}
